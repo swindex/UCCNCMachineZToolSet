@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/
+/obj/
+/bin/Release/UCCNC.exe
+/bin/Release/UCCNC.exe.config
+/bin/Release/Plugininterface.dll
